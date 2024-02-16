@@ -1,0 +1,23 @@
+# Subregions defined according to: https://au.int/en/member_states/countryprofiles2
+- African Subregions:
+  - Western Africa:
+      description: >
+        Benin, Burkina Faso, Cabo Verde, Côte d'Ivoire, Gambia, Ghana, Guinea,
+        Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo
+  - Eastern Africa:
+      description: >
+        Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda,
+        Seychelles, Somalia, South Sudan, Sudan, Tanzania, Uganda
+  - Northern Africa:
+      description: >
+        Algeria, Egypt, Libya, Mauritania, Morocco, Tunisia, Western Sahara
+  - Central Africa:
+      description: >
+        Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of
+        the Congo, Equatorial Guinea, Gabon, Sao Tome and Principe
+  - Southern Africa:
+      description: >
+        Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa,
+        Zambia, Zimbabwe
+- Africa:
+  - Africa
