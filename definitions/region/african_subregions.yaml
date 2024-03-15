@@ -21,3 +21,103 @@
         Zambia, Zimbabwe
 - Africa:
   - Africa
+
+# Nigerian zones and states defined according to:
+#  - https://maps-nigeria.com/map-of-nigeria-showing-the-six-geopolitical-zones
+#  - https://en.wikipedia.org/wiki/States_of_Nigeria
+
+- Nigeria Zones:
+  - North Central:
+      description: >
+        Benue, Kogi, Kwara, Nasarawa, Niger, Plateau, Federal Capital Territory
+  - North East:
+      description: >
+        Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe
+  - North West:
+      description: >
+        Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara
+  - South East:
+      description: >
+        Abia, Anambra, Ebonyi, Enugu, Imo
+  - South South:
+      description: >
+        Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers
+  - South West:
+      description: >
+        Ekiti, Lagos, Ogun, Ondo, Osun, Oyo
+
+- Nigeria States:
+  - Abia:
+      description: "Known for its commercial hub in Aba, rich in textile and handicrafts."
+  - Adamawa:
+      description: "Features diverse landscapes from mountains to valleys, with a rich cultural heritage."
+  - Akwa Ibom:
+      description: "Boasts beautiful beaches and a strong oil and gas industry."
+  - Anambra:
+      description: "Rich in history and culture, with a vibrant economy centered around commerce and agriculture."
+  - Bauchi:
+      description: "Home to the Yankari National Park, offering a glimpse into Nigeria's wildlife."
+  - Bayelsa:
+      description: "Predominantly riverine, crucial to the oil sector, with extensive mangrove forests."
+  - Benue:
+      description: "Known as the 'Food Basket of the Nation,' with agriculture as its backbone."
+  - Borno:
+      description: "Features the Sambisa Forest and a history marked by the Boko Haram insurgency."
+  - Cross River:
+      description: "Hosts the annual Calabar Carnival and is known for its conservation efforts and tourism."
+  - Delta:
+      description: "Rich in oil and diverse cultures, with significant contributions to Nigeria's economy."
+  - Ebonyi:
+      description: "Known for its rice production and as a leading state in agriculture."
+  - Edo:
+      description: "Historically significant with the ancient Benin Kingdom and a vibrant culture."
+  - Ekiti:
+      description: "Rich in cultural festivals and known for its educational institutions."
+  - Enugu:
+      description: "Known for its coal mining history and the picturesque Ngwo Pine Forest."
+  - Gombe:
+      description: "Features savannah landscapes and is an emerging center for commerce and agriculture."
+  - Imo:
+      description: "Home to oil production, agriculture, and the famous Oguta Lake."
+  - Jigawa:
+      description: "Characterized by its arid climate and agriculture, particularly millet and sorghum."
+  - Kaduna:
+      description: "A major industrial and political hub with a rich colonial history."
+  - Kano:
+      description: "One of Nigeria's oldest cities, pivotal in trade and Islamic scholarship."
+  - Katsina:
+      description: "Steeped in history with ancient city walls and a strong agricultural base."
+  - Kebbi:
+      description: "Notable for Argungu Fishing Festival and a strong agricultural sector, especially rice."
+  - Kogi:
+      description: "Where the Niger and Benue Rivers meet, with a rich cultural and natural diversity."
+  - Kwara:
+      description: "Known for its harmony among diverse ethnic groups and agricultural activities."
+  - Lagos:
+      description: "Nigeria's economic powerhouse, with a vibrant culture, commerce, and entertainment scene."
+  - Nasarawa:
+      description: "Rich in mineral resources and agriculture, with a diverse ethnic composition."
+  - Niger:
+      description: "Home to the Kainji National Park and the Jebba Dam, important for hydroelectric power."
+  - Ogun:
+      description: "Notable for its industrial estates and as the birthplace of many Nigerian leaders."
+  - Ondo:
+      description: "Rich in cocoa production and blessed with natural beauty, including lengthy coastlines."
+  - Osun:
+      description: "Hosts the famous Osun-Osogbo Sacred Grove, a UNESCO World Heritage site."
+  - Oyo:
+      description: "Historically significant with the ancient city of Ibadan and a strong agricultural sector."
+  - Plateau:
+      description: "Known for its scenic landscapes and cooler climate, with a rich cultural heritage."
+  - Rivers:
+      description: "A key player in Nigeria's oil industry, with a rich cultural tapestry and Port Harcourt as its capital."
+  - Sokoto:
+      description: "Center of Islamic scholarship and the seat of the Sokoto Caliphate."
+  - Taraba:
+      description: "Diverse in flora and fauna, with the Mambilla Plateau as a key feature."
+  - Yobe:
+      description: "Features part of the Sahara Desert and is primarily focused on agriculture."
+  - Zamfara:
+      description: "Rich in agriculture and mining, with a history of ancient kingdoms."
+  - Federal Capital Territory:
+      description: "Home to Abuja, Nigeria's capital, symbolizing unity and central governance."
