@@ -1,0 +1,27 @@
+- Middle Earth tutorial regions:
+  - DolAmroth
+  - DolAmroth>Gondor
+  - DolAmroth>Harad
+  - DolAmroth>Mordor
+  - DolAmroth>Rohan
+  - Gondor
+  - Gondor>DolAmroth
+  - Gondor>Harad
+  - Gondor>Mordor
+  - Gondor>Rohan
+  - Harad
+  - Harad>DolAmroth
+  - Harad>Gondor
+  - Harad>Mordor
+  - Harad>Rohan
+  - Mordor
+  - Mordor>DolAmroth
+  - Mordor>Gondor
+  - Mordor>Harad
+  - Mordor>Rohan
+  - Rohan
+  - Rohan>DolAmroth
+  - Rohan>Gondor
+  - Rohan>Harad
+  - Rohan>Mordor
+  - World
