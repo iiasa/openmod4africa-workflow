@@ -6,6 +6,8 @@ Copyright 2022-2023 IIASA
 
 ## Overview
 
+The project template can be downloaded here: <https://file.ece.iiasa.ac.at/openmod4africa/openmod4africa.xlsx>.
+
 This is repository contains the variable template and model mappings for the OpenMod4Africa project.
 
 This project makes use of the nomenclature definition import feature and imports the openENTRANCE variable template.
