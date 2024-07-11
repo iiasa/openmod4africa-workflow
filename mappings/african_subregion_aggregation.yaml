@@ -1,6 +1,5 @@
 model:
   - plan4res 1.0
-  - EV-PV 0.1.0
   - GENeSYS-MOD 3.2
   - openTEPES 4.15.7
 native_regions:
