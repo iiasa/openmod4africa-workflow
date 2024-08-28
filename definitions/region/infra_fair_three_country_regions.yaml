@@ -716,10 +716,10 @@
   - United Kingdom:Spain>Denmark
   - United Kingdom:Spain>Estonia
   - United Kingdom:Spain>Sweden
-  - Guniea:Mali>Guniea
+  - Guinea:Mali>Guinea
   - Côte d'Ivoire:Mali>Côte d'Ivoire
   - Burkina Faso:Burkina Faso>Niger
-  - Guniea:Guniea>Sierra Leone
+  - Guinea:Guinea>Sierra Leone
   - Côte d'Ivoire:Côte d'Ivoire>Sierra Leone
   - Ghana:Sierra Leone>Ghana
   - Ghana:Liberia>Ghana
@@ -730,10 +730,10 @@
   - Ghana:Benin>Togo
   - Nigeria:Benin>Togo
   - Senegal:Togo>Senegal
-  - Mali:Mali>Guniea
+  - Mali:Mali>Guinea
   - Mali:Mali>Côte d'Ivoire
   - Niger:Burkina Faso>Niger
-  - Sierra Leone:Guniea>Sierra Leone
+  - Sierra Leone:Guinea>Sierra Leone
   - Sierra Leone:Côte d'Ivoire>Sierra Leone
   - Sierra Leone:Sierra Leone>Ghana
   - Liberia:Liberia>Ghana
