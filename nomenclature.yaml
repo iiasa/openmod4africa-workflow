@@ -6,3 +6,4 @@ definitions:
     repository: openENTRANCE
   region:
     country: true
+illegal_characters: [ ]
