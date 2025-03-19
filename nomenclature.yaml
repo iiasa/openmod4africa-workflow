@@ -4,6 +4,4 @@ repositories:
 definitions:
   variable:
     repository: openENTRANCE
-  region:
-    country: true
 illegal_characters: [ ]
