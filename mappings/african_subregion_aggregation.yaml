@@ -58,6 +58,34 @@ native_regions:
   - Western Sahara
   - Zambia
   - Zimbabwe
+  - Mali>Ghana
+  - Burkina Faso>Niger
+  - Benin>Mali
+  - Guinea>Togo
+  - Mali>Togo
+  - Côte d'Ivoire>Benin
+  - Benin>Liberia
+  - Mali>Côte d'Ivoire
+  - Nigeria>Togo
+  - Togo>Burkina Faso
+  - Guinea>Nigeria
+  - Senegal>Benin
+  - Ghana>Liberia
+  - Guinea>Côte d'Ivoire
+  - Côte d'Ivoire>Senegal
+  - Mali>Liberia
+  - Benin>Ghana
+  - Guinea>Senegal
+  - Nigeria>Burkina Faso
+  - Guinea-Bissau>Sierra Leone
+  - Burkina Faso>Liberia
+  - Mali>Burkina Faso
+  - Nigeria>Niger
+  - Sierra Leone>Liberia
+  - Guinea>Mali
+  - Guinea>Gambia
+  - Senegal>Ghana
+  - Côte d'Ivoire>Ghana
 common_regions:
   - Western Africa:
     - Benin
